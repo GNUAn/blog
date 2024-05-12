@@ -1,3 +1,1 @@
-# zauruxblog
-
-Blog of Zaurux
+# GNUAN WEBSITE
