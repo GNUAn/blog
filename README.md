@@ -1,0 +1,3 @@
+# zauruxblog
+
+Blog of Zaurux
